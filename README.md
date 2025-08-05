@@ -1,13 +1,14 @@
-# Hongyi Xie
+# Name here
 
-📧 hongyiheinz@gmail.com  
-📞 +49 157 329 27654  
+📧 emailaddress here 
+📞 +49 XXX XXX XXXXX  
 🌐 Berlin, Germany
 
 ---
 
 ## 🧠 Summary
-Mathematician with consulting experience in SAP FPSL and financial transformation for leading insurance clients. After completing the EY ifb Finance Transformation Program, transitioned into SAP advisory roles. Strong analytical skills, fast learner, and effective in multicultural project environments.
+commenced his professional journey in equity index research, acquiring foundational exposure to global financial markets and quantitative analysis. Following the completion of AAA Company’s rigorous finance transformation program, he progressed into consulting roles specializing in SAP FPSL and financial transformation initiatives for leading insurance clients. Holding a Master’s degree in Mathematics from Freie Universität Berlin, he brings a sharp analytical acumen, a demonstrated aptitude for rapid learning, and a refined ability to navigate multicultural project environments with ease.
+
 
 ---
 
@@ -16,42 +17,34 @@ Mathematician with consulting experience in SAP FPSL and financial transformatio
 ---
 
 ## 🌐 Languages
-- Chinese (native)  
 - English (fluent)  
 - German (fluent)
-
+- Chinese (native) 
 ---
 
 ## 💼 Professional Experience
 ### Strategic Internal Contribution  
 **Since Jan. 2025**  
-- Actively participated in SAP S/4HANA Public Cloud and FPSL workshops during a non-project phase.  
-- Designed and maintained RfP presentation materials to support strategic bid development.
+Maintained professional engagement during a non-project phase by actively participating in SAP S/4HANA Public Cloud and FPSL workshops. Took ownership of designing and refining RfP presentation materials, contributing to strategic bid development with clear structure and impactful messaging.
+
 
 ### Financial Transformation – International Insurer  
 **Sep. 2023 – Dec. 2024**  
-- Led Solvency II use cases and developed FPSL-based data processing tools.  
-- Conducted testing, validation, and documentation of FPSL configurations.  
-- Prepared regulatory data for FPSL and PaPM to ensure compliance and system integrity.  
-- Collaborated with clients and project teams to uphold high technical standards.
+Led the implementation of Solvency II use cases and developed FPSL-based data processing tools. Conducted testing, validation, and documentation of SAP FPSL configurations and results. Prepared regulatory data for FPSL and PaPM, ensuring compliance and system integrity. Collaborated closely with clients and project teams to maintain high technical and professional standards.
+
 
 ### SAP FPSL Implementation – German Cooperative Insurer  
 **Jan. 2023 – Aug. 2023**  
-- Supported system development via unit testing, prototyping, and modeling of insurance contracts.  
-- Maintained test data and simulation chains across product lines.  
-- Customized the financial subledger and optimized FPSL processes in close coordination with client teams.
+Supported SAP S/4HANA FPSL system development through unit testing, prototyping, and numerical modeling of insurance contracts. Maintained test data and process chains for simulation runs across product lines. Held technical responsibility for customizing the financial subledger and optimizing the FPSL process landscape in close collaboration with client teams.
 
-### EY ifb Finance Transformation Academy  
+### AAA Company Finance Transformation Academy  
 **Jul. 2022 – Dec. 2022**  
-- Completed intensive training in finance, regulation, and business analysis.  
-- Gained hands-on experience with SAP BW, S/4HANA, SQL, and SAS.  
-- Created mentoring materials including presentations, websites, and videos for onboarding support.
+Completed a rigorous training program covering finance fundamentals, regulatory frameworks, and business analysis. Gained hands-on experience with SAP BW, S/4HANA, SQL, and SAS for financial data reporting. Additionally prepared mentoring materials—including presentations, websites, and videos—to support onboarding of new joiners.
 
-### Index Intelligence GmbH  
+
+### BBB GmbH  
 **Jan. 2023 – Dec. 2023**  
-- Contributed to the development of new equity indices.  
-- Conducted independent analysis of (sub-)sectors of the (M)DAX.  
-- Monitored global market trends and maintained financial databases for quantitative research.
+Contributed to the development of new equity indices and conducted independent analysis on (sub-)sectors of the (M)DAX. Monitored global market trends and maintained financial databases to support quantitative research.
 
 ---
 
