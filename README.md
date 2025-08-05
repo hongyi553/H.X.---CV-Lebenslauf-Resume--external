@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Summary
-commenced his professional journey in equity index research, acquiring foundational exposure to global financial markets and quantitative analysis. Following the completion of AAA Company’s rigorous finance transformation program, he progressed into consulting roles specializing in SAP FPSL and financial transformation initiatives for leading insurance clients. Holding a Master’s degree in Mathematics from Freie Universität Berlin, he brings a sharp analytical acumen, a demonstrated aptitude for rapid learning, and a refined ability to navigate multicultural project environments with ease.
+Commenced his professional journey in equity index research, acquiring foundational exposure to global financial markets and quantitative analysis. Following the completion of AAA Company’s rigorous finance transformation program, he progressed into consulting roles specializing in SAP FPSL and financial transformation initiatives for leading insurance clients. Holding a Master’s degree in Mathematics from Freie Universität Berlin, he brings a sharp analytical acumen, a demonstrated aptitude for rapid learning, and a refined ability to navigate multicultural project environments with ease.
 
 
 ---
