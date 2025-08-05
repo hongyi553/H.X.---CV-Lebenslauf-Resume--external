@@ -1,6 +1,6 @@
 # Name here
 
-📧 emailaddress here 
+📧 emailaddress@here 
 📞 +49 XXX XXX XXXXX  
 🌐 Berlin, Germany
 
